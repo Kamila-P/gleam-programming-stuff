@@ -19,6 +19,7 @@ All recorded Gleam presentations from conferences and meetups
 ### FOSDEM 2026
 
 - Making Web Components work: a framework's perspective, Hayleigh Thompson
+- [You Don't Need an ORM](https://www.youtube.com/watch?v=8vrEtKc-TBU), Giacomo Cavalieri
 
 
 ### Code BEAM Lite Stockholm 2026
@@ -126,9 +127,16 @@ All recorded Gleam presentations from conferences and meetups
 
 ## 2023
 
+### Fosdem 2023
+- [Distributed music programming with Gleam, BEAM, and the Web Audio API](https://youtu.be/L1zFNng9lH4), Hayleigh Thompson
+
 ### Code BEAM Europe 2023
 
 - [End-to-end types: full-stack Web apps with Gleam](https://www.youtube.com/watch?v=eVtkYQva0Ic), Hayleigh Thompson
+
+### NewCrafts 2023, TEQNation 2023
+
+- [Gleam: simple typed functional programming for the Web]https://www.youtube.com/watch?v=QQjeAMYC0jk)
 
 ## 2022
 
