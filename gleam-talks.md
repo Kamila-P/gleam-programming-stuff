@@ -136,7 +136,7 @@ All recorded Gleam presentations from conferences and meetups
 
 ### NewCrafts 2023, TEQNation 2023
 
-- [Gleam: simple typed functional programming for the Web]https://www.youtube.com/watch?v=QQjeAMYC0jk)
+- [Gleam: simple typed functional programming for the Web](https://www.youtube.com/watch?v=QQjeAMYC0jk), Hayleigh Thompson
 
 ## 2022
 
