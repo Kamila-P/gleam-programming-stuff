@@ -1,7 +1,12 @@
 
 # Gleam Talks
 
-All recorded Gleam presentations from conferences and meetups
+All recorded Gleam presentations from conferences and meetups. Let me know if your talk is missing!
+Wanna join the Gleam Speakers Hall of Fame? Check current calls for talks on discord [here](https://discord.com/channels/768594524158427167/1375507981680246794).
+P.S. All Gleam speakers are rewarded with exclusive gleam speaker sticker.
+
+## UPCOMING
+## [Gleam Gathering 2027](https://gleamgathering.com/)
 
 ## 2026
 
@@ -142,7 +147,10 @@ All recorded Gleam presentations from conferences and meetups
 
 ### Code BEAM Brazil 2022
 
-- Building a Type Safe OTP, Louis Pilfold 
+- Building a Type Safe OTP, Louis Pilfold
+
+### Elixir Australia Meetup 
+- [I learned Gleam in a week. Here's how it went](https://youtu.be/-8OIK4RIUsg), Theo Harris
 
 ## 2020
 
